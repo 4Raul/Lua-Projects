@@ -1,5 +1,3 @@
-repeat task.wait() until game:IsLoaded()
-
 if game.PlaceId == 10118559731 then
 
 local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/discord%20lib.txt")()
